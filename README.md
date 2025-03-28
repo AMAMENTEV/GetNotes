@@ -4,9 +4,8 @@ GetNotes is a minimalistic note-taking app that allows users to create beautiful
 
 # Screenshots
 
-<img src="https://github.com/user-attachments/assets/eb40adbd-08cc-42b6-99e7-c514c04c889d" width="300" height="200" />
 <img src="https://github.com/user-attachments/assets/79a18d60-f53b-463d-a13a-7ab871f56bcb" width="300" height="200" />
-
+<img src="https://github.com/user-attachments/assets/eb40adbd-08cc-42b6-99e7-c514c04c889d" width="300" height="200" />
 
 ## Features
 
